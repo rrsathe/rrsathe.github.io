@@ -1,4 +1,4 @@
 This is a Brave Creators publisher verification file.
 
 Domain: rrsathe.github.io
-Token: a508168f67d73bb75afb4d4ea1e73135065fb4b351540d3fb2d33be2fde47458
+Token: 0a65217438c01544437f0b5914819510453405e38f2088b93304e849d3255359
